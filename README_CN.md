@@ -6,7 +6,7 @@ ChatGPT-Telegram-Workers
     <br> <a href="README.md">English</a> | 中文
 </p>
 <p align="center">
-    <em>轻松在Cloudflare Workers上部署您自己的Telegram ChatGPT机器人。</em>
+    <em>轻松在Cloudflare Workers上部署您自己的Telegram ChatGPT机器人</em>
 </p>
 
 
